@@ -1,9 +1,6 @@
 # Air Quality Monitor Web App
-#### Video Demo:  <https://youtu.be/pmJ12uHT0Vs>
 
 ### Introduction:
-This is my 2nd project, another one as a final project for a cs50 course, this time it is for cs50x. This one, although the idea was initially huge, but felt that it would take too much time learning ML and the tools associated with it on my own, as I intend to take it as the next course, however using the skills gained from cs50x, this web app is a useful tool that I myself would use as a research engineer in air quality sciences, monitoring important data to myself especially the AQI and PM2.5 levels at the click of a button. Basically, this is a full stack project where the back-end works to fetch real-time data via an API token to WAQI which displays results dynamically on the frontend where user and learn about different AQI levels and search on any country/city that has official results under WAQI.
-
 Formally, The Air Quality Monitor Web App is a Flask-based application designed to provide real-time air quality and (in future) temperature data. It leverages the World Air Quality Index (WAQI) API for data retrieval. This project, an extension of the skills developed in CS50x, showcases the practical application of Flask, SQLite, JavaScript, and API integration.
 
 ### Project Overview:
